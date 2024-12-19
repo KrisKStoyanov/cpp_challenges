@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (challenge_a.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ConsoleApplication3.cpp
+  challenge_b.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_b\x64\Debug\challenge_b.exe

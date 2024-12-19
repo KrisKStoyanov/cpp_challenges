@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  ConsoleApplication8.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_h\challenge_a\ConsoleApplication8.cpp(18,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_h\challenge_a\ConsoleApplication8.cpp(18,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_h\challenge_a\ConsoleApplication8.cpp(18,14): warning C4129: 'B': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_h\challenge_a\ConsoleApplication8.cpp(31,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_h\challenge_a\ConsoleApplication8.cpp(31,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_h\x64\Debug\challenge_a.exe

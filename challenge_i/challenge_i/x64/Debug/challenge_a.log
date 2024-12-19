@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  ConsoleApplication8adv2.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(18,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(18,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(18,14): warning C4129: 'B': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(31,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(31,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(311,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_i\challenge_a\ConsoleApplication8adv2.cpp(364,16): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file '/ConsoleApplication8adv2.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_i\x64\Debug\challenge_a.exe

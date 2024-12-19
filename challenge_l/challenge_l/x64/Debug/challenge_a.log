@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  ConsoleApplication9.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(23,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(23,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(23,14): warning C4129: 'B': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(36,14): warning C4129: 'k': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(36,14): warning C4129: 'D': unrecognized character escape sequence
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(317,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_l\challenge_a\ConsoleApplication9.cpp(405,8): warning C4101: 'curEdge': unreferenced local variable
+  (compiling source file '/ConsoleApplication9.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_l\x64\Debug\challenge_a.exe

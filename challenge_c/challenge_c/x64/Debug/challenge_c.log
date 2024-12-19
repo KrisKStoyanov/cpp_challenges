@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (challenge_a.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ConsoleApplication4.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_c\challenge_c\ConsoleApplication4.cpp(15,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication4.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_c\challenge_c\ConsoleApplication4.cpp(142,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication4.cpp')
+  
+  challenge_c.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_c\x64\Debug\challenge_c.exe

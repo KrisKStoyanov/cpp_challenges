@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApplication9adv1.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_j\challenge_a\ConsoleApplication9adv1.cpp(101,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication9adv1.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_j\x64\Debug\challenge_a.exe

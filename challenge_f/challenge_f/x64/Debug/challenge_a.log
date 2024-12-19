@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  ConsoleApplication6adv2.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(229,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication6adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(230,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(230,35): warning C4267:         with
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(230,35): warning C4267:         [
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(230,35): warning C4267:             _Ty=int
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(230,35): warning C4267:         ]
+  (compiling source file '/ConsoleApplication6adv2.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(260,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(260,38): warning C4267:         with
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(260,38): warning C4267:         [
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(260,38): warning C4267:             _Ty=int
+C:\Projects\github_origin\cpp_challenges\challenge_f\challenge_a\ConsoleApplication6adv2.cpp(260,38): warning C4267:         ]
+  (compiling source file '/ConsoleApplication6adv2.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_f\x64\Debug\challenge_a.exe

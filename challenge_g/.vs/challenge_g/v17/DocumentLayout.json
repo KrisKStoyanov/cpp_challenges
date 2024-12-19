@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\github_origin\\cpp_challenges\\challenge_g\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A74BDC-F941-4682-97D9-DE2C6726C064}|challenge_a\\challenge_a.vcxproj|C:\\Projects\\github_origin\\cpp_challenges\\challenge_g\\challenge_a\\ConsoleApplication7adv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A74BDC-F941-4682-97D9-DE2C6726C064}|challenge_a\\challenge_a.vcxproj|solutionrelative:challenge_a\\ConsoleApplication7adv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication7adv.cpp",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\cpp_challenges\\challenge_g\\challenge_a\\ConsoleApplication7adv.cpp",
+              "RelativeDocumentMoniker": "challenge_a\\ConsoleApplication7adv.cpp",
+              "ToolTip": "C:\\Projects\\github_origin\\cpp_challenges\\challenge_g\\challenge_a\\ConsoleApplication7adv.cpp",
+              "RelativeToolTip": "challenge_a\\ConsoleApplication7adv.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T21:01:48.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

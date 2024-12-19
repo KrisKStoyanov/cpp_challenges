@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  ConsoleApplication5uni.cpp
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(148,65): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(148,65): warning C4267:         with
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(148,65): warning C4267:         [
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(148,65): warning C4267:             _Ty=int
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(148,65): warning C4267:         ]
+  (compiling source file '/ConsoleApplication5uni.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(184,65): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(184,65): warning C4267:         with
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(184,65): warning C4267:         [
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(184,65): warning C4267:             _Ty=int
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(184,65): warning C4267:         ]
+  (compiling source file '/ConsoleApplication5uni.cpp')
+  
+C:\Projects\github_origin\cpp_challenges\challenge_d\challenge_a\ConsoleApplication5uni.cpp(204,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/ConsoleApplication5uni.cpp')
+  
+  challenge_a.vcxproj -> C:\Projects\github_origin\cpp_challenges\challenge_d\x64\Debug\challenge_a.exe
